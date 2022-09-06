@@ -5,7 +5,7 @@ import Typography from '@mui/joy/Typography';
 import TextField from '@mui/joy/TextField';
 import Button from '@mui/joy/Button';
 import Link from '@mui/joy/Link';
-import DarkTheme from '../darkTheme';
+import DarkTheme from '../DarkTheme/darkTheme';
 
 const LogIn = () => {
     return (

@@ -1,8 +1,11 @@
-import LogIn from "./Components/DarkTheme/LogIn/logIn";
+import LogIn from "./Components/LogIn/logIn";
+import SignUp from "./Components/SignUp/signUp";
 
 function App() {
   return (
-    <LogIn/>
+    // <LogIn/>
+    <SignUp/>
+
   )
 }
 
