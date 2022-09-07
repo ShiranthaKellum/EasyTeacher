@@ -62,7 +62,7 @@ export default function Chart() {
             type="monotone"
             dataKey="amount"
             stroke={theme.palette.primary.main}
-            dot={false}
+            // dot={false}
           />
         </LineChart>
       </ResponsiveContainer>
